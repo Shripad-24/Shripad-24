@@ -41,6 +41,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shripad-24&show_icons=true&theme=tokyonight" alt="stats" />
   <br />
+  </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shripad-24&theme=tokyonight" />
 </p>
 
