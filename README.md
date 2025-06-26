@@ -28,20 +28,20 @@
 
 ---
 
+### 📫 Let’s Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/shrijoshi24" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;">
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shripad-24&show_icons=true&theme=tokyonight" alt="stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shripad-24&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Let’s Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/shrijoshi24" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
 </p>
 
 ---
