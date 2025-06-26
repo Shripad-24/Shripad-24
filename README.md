@@ -28,20 +28,23 @@
 
 ---
 
-### 📫 Let’s Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/shrijoshi24" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📫 Let’s Connect!</h3>
+      <a href="https://www.linkedin.com/in/shrijoshi24" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shripad-24&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="95%" />
+    </td>
+  </tr>
+</table>
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShripadJoshi&show_icons=true&theme=tokyonight" alt="stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShripadJoshi&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Shripad-24&theme=tokyonight" width="70%" />
 </p>
 
 ---
@@ -55,7 +58,3 @@
 
 ### ✨ Quote I Live By
 > “Push your limits. That’s where growth begins.”
-
----
-
-  
