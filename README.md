@@ -31,7 +31,7 @@
 ### 📫 Let’s Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/shrijoshi24" target="_blank">
-     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30" width="40" style="max-width: 100%;"/>
   </a>
 </p>
 
