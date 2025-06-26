@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Profile Stats
+<h3 align="center">📊 Profile Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shripad-24&show_icons=true&theme=tokyonight" alt="stats" />
   <br />
@@ -49,7 +49,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,github,vscode" />
 </p>
 
 ---
