@@ -38,6 +38,7 @@
 ---
 
 <h3 align="center">📊 Profile Stats</h3>
+<p>
   </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shripad-24&theme=tokyonight" />
 </p>
