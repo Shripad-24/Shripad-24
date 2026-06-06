@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shripad Joshi</h1>
+<h1 align="center">Hi👋, I'm Shripad Joshi</h1>
 <h3 align="center">👨‍💻 Computer Engineering Student | 🌐 Aspiring Full Stack Web Developer | 💡 Tech Enthusiast</h3>
 
 ---
